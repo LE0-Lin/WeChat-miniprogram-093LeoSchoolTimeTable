@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle": "dark",
+    "navigationBarTitleText": "093LinTimeTable",
+    "navigationBarBackgroundColor": "#7cba23",
+    "navigationBarTextStyle": "black"
+  }
+}
